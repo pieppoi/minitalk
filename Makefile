@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: ryomori <ryomori@student.42tokyo.jp>       +#+  +:+       +#+         #
+#    By: mkazuhik <mkazuhik@student.42tokyo.jp>     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2024/06/03 12:19:56 by ryomori           #+#    #+#              #
-#    Updated: 2024/06/03 16:13:25 by ryomori          ###   ########.fr        #
+#    Created: 2025/08/06 18:20:08 by mkazuhik          #+#    #+#              #
+#    Updated: 2025/08/06 18:20:54 by mkazuhik         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

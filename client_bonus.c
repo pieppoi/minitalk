@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   client_bonus.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ryomori <ryomori@student.42tokyo.jp>       +#+  +:+       +#+        */
+/*   By: mkazuhik <mkazuhik@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/03 14:57:42 by ryomori           #+#    #+#             */
-/*   Updated: 2024/06/05 11:35:54 by ryomori          ###   ########.fr       */
+/*   Created: 2025/08/06 18:19:27 by mkazuhik          #+#    #+#             */
+/*   Updated: 2025/08/06 18:20:01 by mkazuhik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

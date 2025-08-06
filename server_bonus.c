@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   server_bonus.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ryomori <ryomori@student.42tokyo.jp>       +#+  +:+       +#+        */
+/*   By: mkazuhik <mkazuhik@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/03 14:58:08 by ryomori           #+#    #+#             */
-/*   Updated: 2024/06/03 15:39:58 by ryomori          ###   ########.fr       */
+/*   Created: 2025/08/06 18:20:19 by mkazuhik          #+#    #+#             */
+/*   Updated: 2025/08/06 18:20:47 by mkazuhik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

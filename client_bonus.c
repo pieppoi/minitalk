@@ -22,12 +22,12 @@ int	transmitter(pid_t pid, const char *message)
 		i = 0;
 		while (i < 8)
 		{
-			if (*message & (0x01 << i))
-				kill(pid, SIGUSR1);
-			else
-				kill(pid, SIGUSR2);
-			usleep(50);
-			i++;
+					if (*message & (0x01 << i))
+			kill(pid, SIGUSR1);
+		else
+			kill(pid, SIGUSR2);
+		usleep(500);
+		i++;
 		}
 		message++;
 	}

@@ -26,7 +26,7 @@ int	transmitter(pid_t pid, const char *message)
 				kill(pid, SIGUSR1);
 			else
 				kill(pid, SIGUSR2);
-			usleep(50);
+			usleep(500);
 			i++;
 		}
 		message++;
